@@ -169,7 +169,6 @@ body {
   width: 8vmin;
   height: 11vmin;
   border-radius: 51% 49% 47% 53%/44% 45% 55% 69%;
-  background-color: #f672b0;
   background-image: linear-gradient(180deg, rgba(2,0,36,1) 0%, rgba(0,0,117,1) 0%, rgba(0,212,255,1) 100%);
   transform-origin: bottom center;
   opacity: 0.9;
@@ -190,7 +189,7 @@ body {
   transform-origin: bottom left;
   border-radius: 4vmin 10vmin 4vmin 4vmin;
   transform: translate(0%, 18%) rotateX(70deg) rotate(-43deg);
-  background-image: linear-gradient(180deg, rgba(2,0,36,1) 0%, rgba(0,0,117,1) 0%, rgba(0,212,255,1) 100%);
+  background-image: linear-gradient(180deg, #020024 0%, #000075 0%, #00d4ff 100%);
   z-index: 1;
   opacity: 0.8;
 }
@@ -201,7 +200,7 @@ body {
   width: 9vmin;
   height: 4vmin;
   border-radius: 50%;
-  background-color: #fff;
+  background-color: #12428b;
 }
 .flower__white-circle::after {
   content: "";
